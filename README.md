@@ -14,5 +14,5 @@ pip3.11 install -r requirements.txt
 
 ## run
 ```bash
-pip3.11 main.py
+python3.11 main.py
 ```
