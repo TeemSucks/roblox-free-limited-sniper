@@ -1,12 +1,12 @@
 # install
-```sh
+```bash
 git clone https://github.com/TeemSucks/roblox-free-limeted-sniper/
 ```
-```sh
+```bash
 pip3.11 install -r requirements.txt
 ```
 
 # run
-```sh
+```bash
 pip3.11 main.py
 ```
