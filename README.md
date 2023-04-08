@@ -1,4 +1,4 @@
-# free limeted item sniper
+# free limited item sniper
 
 it **should** work
 i didnt test it yet
