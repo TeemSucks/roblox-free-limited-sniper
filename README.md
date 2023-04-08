@@ -1,4 +1,8 @@
-# install
+# free limeted item sniper
+
+idk...
+
+## install
 ```bash
 git clone https://github.com/TeemSucks/roblox-free-limeted-sniper/
 ```
@@ -6,7 +10,7 @@ git clone https://github.com/TeemSucks/roblox-free-limeted-sniper/
 pip3.11 install -r requirements.txt
 ```
 
-# run
+## run
 ```bash
 pip3.11 main.py
 ```
