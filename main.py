@@ -10,6 +10,8 @@ url = 'https://www.roblox.com/catalog?Category=11&Subcategory=19&CurrencyType=3&
 
 id_file = 'ids.txt'
 
+print('Keep this running.\nTo close it press controll + c')
+
 while True:
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
