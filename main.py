@@ -1,3 +1,4 @@
+from colorama import Fore, Back, Style
 import requests
 from bs4 import BeautifulSoup
 import time
@@ -10,7 +11,8 @@ url = 'https://www.roblox.com/catalog?Category=11&Subcategory=19&CurrencyType=3&
 
 id_file = 'ids.txt'
 
-print('Keep this running.\nTo close it press controll + c')
+print(Fore.RED + 'Keep this running.\nTo close it press control + c.\n\n')
+print(Style.RESET_ALL)
 
 while True:
     response = requests.get(url)
