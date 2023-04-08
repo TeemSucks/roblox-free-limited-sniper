@@ -1,6 +1,7 @@
 # free limeted item sniper
 
-idk...
+it should work
+i didnt test it yet
 
 ## install
 ```bash
