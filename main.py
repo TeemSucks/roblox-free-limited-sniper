@@ -11,7 +11,7 @@ url = 'https://www.roblox.com/catalog?Category=11&Subcategory=19&CurrencyType=3&
 
 id_file = 'ids.txt'
 
-print(Fore.RED + 'Keep this running.\nTo close it press control + c.\n\n')
+print(Fore.RED + 'Keep this running.\nTo close it press control + c.\n')
 print(Style.RESET_ALL)
 
 while True:
